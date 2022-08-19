@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Icon-40.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -46,6 +47,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "Icon-Small-40.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -71,6 +73,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Icon-76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
@@ -86,6 +89,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Colorful Cute Icons Icon Set.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
